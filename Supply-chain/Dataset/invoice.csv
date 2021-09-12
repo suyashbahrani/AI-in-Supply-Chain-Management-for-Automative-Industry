@@ -1,0 +1,50 @@
+﻿InvoiceID,ProductID,City,Fulfill Via,Shipment Mode,PO Sent to Vendor Date,Scheduled Delivery Date,Delivered to Client Date,Delivery Recorded Date,Vendor,Item Description,Brand,Unit of Measure (Per Pack),Line Item Quantity,Line Item Value,Pack Price,Unit Price,Manufacturing Site,Payment Status,Weight (Kilograms),Freight Cost (Rupees)
+1,100-CI-T01,Mumbai,Direct Drop,Air,Date Not Captured,2-Jun-06,2-Jun-06,2-Jun-06,R Fine  LTD,brakes,Reveal,30,19,551,29,0.97,R Fine  LTD,processing ,13,780.34
+3,108-VN-T01,Delhi,Direct Drop,Air,Date Not Captured,14-Nov-06,14-Nov-06,14-Nov-06,"Aurobindo Unit III, India",brakes,Generic,240,1000,6200,6.2,0.03,"Aurobindo Unit III, India",done ,358,4521.5
+4,100-CI-T01,Kolkata,Direct Drop,Air,Date Not Captured,27-Aug-06,27-Aug-06,27-Aug-06,ABBVIE GmbH & Co.KG Wiesbaden,brakes,Determine,100,500,40000,80,0.8,ABBVIE GmbH & Co.KG Wiesbaden,processing ,171,1653.78
+15,108-VN-T01,Bangalore,Direct Drop,Air,Date Not Captured,1-Sep-06,1-Sep-06,1-Sep-06,R Fine  LTD,brakes,Generic,60,31920,127360.8,3.99,0.07,R Fine  LTD,processing ,1855,16007.06
+16,108-VN-T01,Mumbai,Direct Drop,Air,Date Not Captured,11-Aug-06,11-Aug-06,11-Aug-06,"Aurobindo Unit III, India",brakes,Generic,60,38000,121600,3.2,0.05,"Aurobindo Unit III, India",processing ,7590,45450.08
+23,112-NG-T01,Delhi,Direct Drop,Truck,Date Not Captured,28-Sep-06,28-Sep-06,28-Sep-06,ABBVIE GmbH & Co.KG Wiesbaden,engine ,Generic,240,416,2225.6,5.35,0.02,ABBVIE GmbH & Co.KG Wiesbaden,done ,504,5920.42
+44,110-ZM-T01,Kolkata,Direct Drop,Air,Date Not Captured,8-Jan-07,8-Jan-07,8-Jan-07,R Fine  LTD,engine ,Stocrin/Sustiva,90,135,4374,32.4,0.36,R Fine  LTD,done ,328,28672.80533
+45,109-TZ-T01,Bangalore,Direct Drop,Air,Date Not Captured,24-Nov-06,24-Nov-06,24-Nov-06,"Aurobindo Unit III, India",engine ,Generic,60,16667,60834.55,3.65,0.06,"Aurobindo Unit III, India",processing ,1478,33325.36019
+46,112-NG-T01,Mumbai,Direct Drop,Air,Date Not Captured,7-Dec-06,7-Dec-06,7-Dec-06,ABBVIE GmbH & Co.KG Wiesbaden,engine ,Generic,60,273,532.35,1.95,0.03,ABBVIE GmbH & Co.KG Wiesbaden,done ,2439.214286,37977.91505
+47,110-ZM-T01,Delhi,Direct Drop,Ship,11/13/06,30-Jan-07,30-Jan-07,30-Jan-07,R Fine  LTD,engine ,Aluvia,120,2800,115080,41.1,0.34,R Fine  LTD,processing ,2639.678571,42630.4699
+60,110-ZM-T01,Kolkata,Direct Drop,Ship,12/1/06,16-Feb-07,16-Feb-07,16-Feb-07,"Aurobindo Unit III, India",lights,Aluvia,120,2800,115080,41.1,0.34,"Aurobindo Unit III, India",processing ,2840.142857,47283.02476
+61,110-ZM-T01,Bangalore,Direct Drop,Truck,Date Not Captured,8-Jan-07,8-Jan-07,8-Jan-07,ABBVIE GmbH & Co.KG Wiesbaden,lights,Uni-Gold,20,2500,100000,40,2,ABBVIE GmbH & Co.KG Wiesbaden,processing ,3040.607143,51935.57962
+62,102-NG-T01,Mumbai,Direct Drop,Truck,Date Not Captured,10-Jan-07,10-Jan-07,10-Jan-07,R Fine  LTD,lights,InstantCHEK,100,10,850,85,0.85,R Fine  LTD,done ,3241.071429,56588.13448
+64,107-RW-T01,Delhi,Direct Drop,Air,12/22/06,27-Feb-07,27-Feb-07,27-Feb-07,"Ci,  India",lights,Generic,60,10000,99800,9.98,0.17,"Ci,  India",done ,3441.535714,61240.68933
+65,106-HT-T01,Kolkata,Direct Drop,Air,Date Not Captured,18-Jan-07,18-Jan-07,18-Jan-07,ABBVIE GmbH & Co.KG Wiesbaden,lights,Determine,100,750,60000,80,0.8,ABBVIE GmbH & Co.KG Wiesbaden,processing ,3642,65893.24419
+68,113-ZW-T01,Bangalore,Direct Drop,Air,1/10/07,19-Mar-07,19-Mar-07,19-Mar-07,"BMS Meymac, France",lights,Videx,60,579,14764.5,25.5,0.42,"BMS Meymac, France",done ,3842.464286,70545.79905
+69,102-NG-T01,Mumbai,Direct Drop,Air,Date Not Captured,7-May-07,7-May-07,7-May-07,R Fine  LTD,brakes,Determine,100,1500,120000,80,0.8,R Fine  LTD,processing ,4042.928571,75198.3539
+80,107-RW-T01,Delhi,Direct Drop,Air,Date Not Captured,29-Mar-07,29-Mar-07,29-Mar-07,"Aurobindo Unit III, India",engine ,First Response,30,2000,33000,16.5,0.55,"Aurobindo Unit III, India",processing ,4243.392857,79850.90876
+87,109-TZ-T01,Kolkata,Direct Drop,Truck,4/12/07,6-Jun-07,6-Jun-07,6-Jun-07,ABBVIE GmbH & Co.KG Wiesbaden,lights,Videx,200,712,8964.08,12.59,0.06,ABBVIE GmbH & Co.KG Wiesbaden,processing ,4443.857143,84503.46362
+92,102-NG-T01,Bangalore,Direct Drop,Air,5/13/07,19-Jun-07,19-Jun-07,19-Jun-07,R Fine  LTD,tyres,Determine,100,1000,80000,80,0.8,R Fine  LTD,done ,4644.321429,89156.01848
+96,102-NG-T01,Mumbai,Direct Drop,Air,5/17/07,19-Jun-07,19-Jun-07,19-Jun-07,"Aurobindo Unit III, India",tyres,Stat-Pak,20,7500,202500,27,1.35,"Aurobindo Unit III, India",done ,4844.785714,93808.57333
+108,104-CI-T01,Delhi,Direct Drop,Air,7/13/07,2-Oct-07,2-Oct-07,2-Oct-07,ABBVIE GmbH & Co.KG Wiesbaden,tyres,Videx,60,5513,140581.5,25.5,0.42,ABBVIE GmbH & Co.KG Wiesbaden,processing ,5045.25,98461.12819
+115,108-VN-T01,Kolkata,Direct Drop,Ship,7/4/07,15-Oct-07,15-Oct-07,15-Oct-07,R Fine  LTD,tyres,Generic,240,1000,1920,1.92,0.01,R Fine  LTD,done ,5245.714286,103113.683
+116,108-VN-T01,Bangalore,Direct Drop,Ship,7/4/07,27-Aug-07,27-Aug-07,27-Aug-07,"Aurobindo Unit III, India",tyres,Aluvia,120,500,41095,82.19,0.68,"Aurobindo Unit III, India",processing ,5446.178571,107766.2379
+130,100-HT-T01,Mumbai,Direct Drop,Truck,7/26/07,13-Aug-07,21-Aug-07,21-Aug-07,ABBVIE GmbH & Co.KG Wiesbaden,tyres,Determine,100,750,53992.5,71.99,0.72,ABBVIE GmbH & Co.KG Wiesbaden,processing ,5646.642857,112418.7928
+134,100-HT-T01,Delhi,Direct Drop,Truck,7/26/07,25-Aug-07,25-Aug-07,25-Aug-07,R Fine  LTD,tyres,OraQuick,100,25,8750,350,3.5,R Fine  LTD,processing ,5847.107143,117071.3476
+138,109-TZ-T01,Kolkata,Direct Drop,Air,Date Not Captured,16-Oct-07,16-Oct-07,16-Oct-07,"Aurobindo Unit III, India",tyres,Bioline,25,10000,200000,20,0.8,"Aurobindo Unit III, India",done ,6047.571429,121723.9025
+139,109-TZ-T01,Bangalore,Direct Drop,Air,Date Not Captured,22-Nov-07,22-Nov-07,22-Nov-07,ABBVIE GmbH & Co.KG Wiesbaden,tyres,Bioline,25,10000,200000,20,0.8,ABBVIE GmbH & Co.KG Wiesbaden,done ,6248.035714,126376.4573
+140,109-TZ-T01,Mumbai,Direct Drop,Air,Date Not Captured,22-Nov-07,22-Nov-07,22-Nov-07,R Fine  LTD,tyres,Bioline,25,10000,200000,20,0.8,R Fine  LTD,processing ,6448.5,131029.0122
+161,117-ET-T01,Delhi,Direct Drop,Air,10/3/07,20-Nov-07,20-Nov-07,20-Nov-07,"Ci,  India",tyres,Generic,60,64000,99200,1.55,0.03,"Ci,  India",done ,6648.964286,135681.567
+176,102-NG-T01,Kolkata,Direct Drop,Air,8/28/07,3-Oct-07,3-Oct-07,3-Oct-07,ABBVIE GmbH & Co.KG Wiesbaden,tyres,Stat-Pak,20,10000,270000,27,1.35,ABBVIE GmbH & Co.KG Wiesbaden,processing ,6849.428571,140334.1219
+262,116-ZA-T01,Bangalore,Direct Drop,Truck,11/12/07,29-Jan-08,29-Jan-08,29-Jan-08,"BMS Meymac, France",tyres,Retrovir,200,40,317.6,7.94,0.04,"BMS Meymac, France",processing ,7049.892857,144986.6768
+269,108-VN-T01,Mumbai,Direct Drop,Air,11/19/07,21-Jan-08,21-Jan-08,21-Jan-08,R Fine  LTD,brakes,Viread,30,1000,17000,17,0.57,R Fine  LTD,processing ,7250.357143,149639.2316
+270,108-VN-T01,Delhi,Direct Drop,Air,11/21/07,21-Jan-08,21-Jan-08,21-Jan-08,"Aurobindo Unit III, India",engine ,Generic,60,400,3352,8.38,0.14,"Aurobindo Unit III, India",done ,7450.821429,154291.7865
+284,107-RW-T01,Kolkata,Direct Drop,Air,12/10/07,31-Jan-08,31-Jan-08,31-Jan-08,ABBVIE GmbH & Co.KG Wiesbaden,engine ,Generic,100,1500,15,0.01,0,ABBVIE GmbH & Co.KG Wiesbaden,done ,7651.285714,158944.3413
+305,123-NG-T01,Bangalore,Direct Drop,Ship,Date Not Captured,5-Feb-08,5-Feb-08,5-Feb-08,R Fine  LTD,engine ,Generic,100,650,6.5,0.01,0,R Fine  LTD,processing ,7851.75,163596.8962
+343,116-ZA-T01,Mumbai,Direct Drop,Ship,1/4/08,21-Jan-08,4-Jan-08,4-Jan-08,"Aurobindo Unit III, India",engine ,Zerit,200,200,340,1.7,0.01,"Aurobindo Unit III, India",done ,8052.214286,168249.451
+361,125-HT-T01,Delhi,Direct Drop,Truck,Date Not Captured,18-Feb-08,18-Feb-08,18-Feb-08,ABBVIE GmbH & Co.KG Wiesbaden,engine ,Capillus,100,2,278,139,1.39,ABBVIE GmbH & Co.KG Wiesbaden,processing ,8252.678571,172902.0059
+391,104-CI-T01,Kolkata,Direct Drop,Truck,2/27/08,17-Jun-08,17-Jun-08,17-Jun-08,R Fine  LTD,engine ,Genie,40,476,36176,76,1.9,R Fine  LTD,processing ,8453.142857,177554.5608
+392,104-CI-T01,Bangalore,Direct Drop,Air,3/3/08,19-Mar-09,19-Mar-09,19-Mar-09,"Aurobindo Unit III, India",tyres,Bioline,25,659,13180,20,0.8,"Aurobindo Unit III, India",processing ,8653.607143,182207.1156
+398,102-GY-T01,Mumbai,Direct Drop,Air,2/28/08,9-Apr-08,1-Apr-08,1-Apr-08,ABBVIE GmbH & Co.KG Wiesbaden,tyres,Generic,100,240,2.4,0.01,0,ABBVIE GmbH & Co.KG Wiesbaden,done ,8854.071429,186859.6705
+399,102-GY-T01,Delhi,Direct Drop,Air,2/28/08,28-Jul-08,28-Jul-08,28-Jul-08,R Fine  LTD,tyres,Generic,100,213,2.13,0.01,0,R Fine  LTD,done ,9054.535714,191512.2253
+400,117-ET-T01,Kolkata,Direct Drop,Air,2/29/08,11-Mar-08,11-Mar-08,11-Mar-08,"Aurobindo Unit III, India",tyres,Capillus,100,63,13399.25,212.69,2.13,"Aurobindo Unit III, India",processing ,9255,196164.7802
+410,113-ZW-T01,Bangalore,Direct Drop,Air,3/17/08,17-Nov-08,17-Nov-08,17-Nov-08,ABBVIE GmbH & Co.KG Wiesbaden,tyres,Determine,100,1634,117631.66,71.99,0.72,ABBVIE GmbH & Co.KG Wiesbaden,done ,9455.464286,200817.335
+411,123-NG-T01,Mumbai,Direct Drop,Truck,3/13/08,17-Apr-08,17-Apr-08,17-Apr-08,R Fine  LTD,brakes,Stat-Pak,20,1425,38475,27,1.35,R Fine  LTD,processing ,9655.928571,205469.8899
+414,119-NA-T01,Delhi,Direct Drop,Air,3/18/08,4-Jun-08,4-Jun-08,4-Jun-08,"Ci,  India",engine ,Determine,100,142,10222.58,71.99,0.72,"Ci,  India",processing ,9856.392857,210122.4448
+420,108-VN-T01,Kolkata,Direct Drop,Air,3/31/08,3-Jun-08,3-Jun-08,3-Jun-08,ABBVIE GmbH & Co.KG Wiesbaden,lights,Generic,30,8400,96432,11.48,0.38,ABBVIE GmbH & Co.KG Wiesbaden,processing ,10056.85714,214774.9996
+422,116-ZA-T01,Bangalore,Direct Drop,Air,2/20/08,24-Apr-08,24-Apr-08,24-Apr-08,"BMS Meymac, France",tyres,Invirase,270,6,405.06,67.51,0.25,"BMS Meymac, France",done ,10257.32143,219427.5545
+423,116-ZA-T01,Mumbai,Direct Drop,Ship,2/20/08,24-Apr-08,24-Apr-08,24-Apr-08,R Fine  LTD,brakes,Zerit,200,600,870,1.45,0.01,R Fine  LTD,done ,10457.78571,224080.1093
